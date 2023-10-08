@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://3.bp.blogspot.com/-S9ACZYElVKI/T4WgfaLqR7I/AAAAAAAABRw/_rG-AHnjNVM/s1600/Scralett_Johansson_With_Glasses_Black_and_White_Photo_HD_Wallpaper-Vvallpaper.Net.jpg'); /* Replace with your image URL */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: pink;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5); /* Add some transparency to the background */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 900; /* Extra bold */
+    background: linear-gradient(45deg, #ff5252, #ff4081, #3f51b5, #2196f3, #00bcd4, #4caf50);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+p {
+    font-weight: 900; /* Extra bold */
+    background: linear-gradient(45deg, #ff5252, #ff4081, #3f51b5, #2196f3, #00bcd4, #4caf50);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
